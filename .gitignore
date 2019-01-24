@@ -1,0 +1,5 @@
+.idea/
+.vertx/
+message-service-example.iml
+target/
+.DS_Store
